@@ -1,5 +1,5 @@
 # ladderwalk
-Generates ladder climbing data used in bmichotte/HSTracker.
+Generates ladder climbing data used in [bmichotte/HSTracker](https://github.com/bmichotte/HSTracker).
 
 Usage:
 
